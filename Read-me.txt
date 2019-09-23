@@ -1,0 +1,3 @@
+Le chemin doit etre saisie comme l'exemple suivant lors de l'extraction :
+
+C:\\Users\\foufou\\Desktop\\Mespro\\monproj
